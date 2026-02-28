@@ -87,5 +87,7 @@ An AI agent that pulls clinical data and generates concise, structured patient s
 - 💼 **GitHub**: [github.com/bhavana-adarsha](https://github.com/bhavana-adarsha)
 
 ---
+## Github Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app)
 
 *Thanks for stopping by! If any of this resonates — healthcare AI, workforce tech, building products that matter — let's talk.*
