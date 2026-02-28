@@ -1,4 +1,4 @@
-# Hi there, I'm Bhavana Adarsha! 👋✨
+# Hi there, I'm Bhavana Adarsha! 👋
 
 *Product Leader. Ex-Founder. Healthcare AI Builder. I build things that matter and I actually stick around to write the code too.* 
 
