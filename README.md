@@ -81,14 +81,6 @@ An AI agent that pulls clinical data and generates concise, structured patient s
 
 ---
 
-## 📈 GitHub Stats
-
-![Bhavana's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavana-adarsha&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavana-adarsha&layout=compact&theme=radical)
-
----
-
 ## Let's connect please!
 
 - 🔗 **LinkedIn**: [linkedin.com/in/bhav515](https://www.linkedin.com/in/bhav515/)
