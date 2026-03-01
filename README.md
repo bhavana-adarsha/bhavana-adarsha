@@ -1,6 +1,7 @@
 # Hi there, I'm Bhavana Adarsha! 👋✨
-<img src="bhavana.jpg" alt="Bhavana Adarsha" width="160" height="200" style="border-radius: 50%;" />
-
+<div align="center">
+  <img src="bhavana.jpg" alt="Bhavana Adarsha" width="200" height="200" style="border-radius: 50%; border: 3px solid #38bdf8;" />
+</div>
 *Product Leader. Ex-Founder. Healthcare AI Builder. I build things that matter and I actually stick around to write the code too.*
 
 Welcome to my GitHub — a sneak peek into my product thinking & builder brain.
