@@ -21,13 +21,13 @@ Welcome to my GitHub — a sneak peek into my product thinking & builder brain.
 ## A few Career Highlights
 
 ### 🤖 Duality Systems — *Product Lead, AI Scheduling Platform*
-Led product for an AI-powered healthcare workforce scheduling platform that hit **$1M ARR**. Built code that supported constrained optimization algorithms — basically, I helped build a machine to solve the puzzle that makes nurses cry. Designed multi-component architecture and drove roadmap from concept to revenue. Worked on integrations to connect scheduling with payroll, time-off, and clinical systems.
+Led product for an AI-powered healthcare workforce scheduling platform that hit **$1M ARR**. Built code that supported constrained optimization algorithms — basically, I helped build a machine to solve the puzzle that makes nurses cry. Designed multi-component architecture and drove roadmap from concept to revenue. Worked on integrations to connect scheduling with payroll, time-off, and clinical systems. Deep expertise in workforce management systems: scheduling, time & attendance, labor optimization. The kind of domain where getting it right actually changes people's work-life balance.
 
 ### 🥗 sCoolMeal — *Co-Founder & Product*
 Built a restaurant POS platform purpose-built for school cafeterias. Took it from 10 → 2,500 meals/day, survived the chaos of real-world school lunch lines, and exited via acquisition. Integrated payment processors, school parent portal SSO, and Drift to create a seamless experience for parents, staff, and administrators. Lived the dream while I was at it.
 
-### 💼 WOW (Workforce Optimization) — *Product Leader*
-Deep expertise in workforce management systems: scheduling, time & attendance, labor optimization. The kind of domain where getting it right actually changes people's work-life balance. Built a unified customer account portal with end-to-end integrations across billing, payments, and data. Turned a fragmented experience into one clean front door.
+### 💼 Wide Open West — *Product Leader*
+Built a unified customer account portal with end-to-end integrations across billing, payments, and data. Turned a fragmented experience into one clean front door.
 
 ---
 
@@ -88,4 +88,4 @@ An AI agent that pulls clinical data and generates concise, structured patient s
 - ** Portfolio **: https://bhavana-adarsha.github.io/
 
 
-*Thanks for stopping by! If any of this resonates — healthcare AI, workforce tech, building products that matter — let's talk.*
+*Thanks for stopping by! If any of this resonates : healthcare AI, workforce tech, building products that matter let's talk.*
