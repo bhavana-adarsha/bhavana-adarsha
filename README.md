@@ -28,6 +28,7 @@ Built a restaurant POS platform purpose-built for school cafeterias. Took it fro
 
 ### API Integrations — *Product Leader*
 Designed and delivered end-to-end API integrations across healthcare, workforce, and POS systems. Bridged complex systems to create seamless user experiences and unlock business value. Integrations span Epic EHR, FHIR APIs, and OpenFDA on the healthcare side, ADP, Paysauce, and time-off systems for workforce and payroll, and school parent portal SSO, payment processors, and student data systems at schools.
+
 ---
 
 ## I am also good at these 
