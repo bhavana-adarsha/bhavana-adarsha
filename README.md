@@ -9,8 +9,8 @@ Welcome to my GitHub — a sneak peek into my product thinking & builder brain.
 ## About
 
 -  **Product Leader** with 10+ years of PM experience and a secret weapon: 10 years of engineering roots
--  **Ex-Founder** — co-founded **sCoolMeal**, a restaurant POS platform for school cafeterias that scaled from 10 → 2,500 meals/day (and got acquired! 🎉)
--  Currently building **IRIS** — an AI-powered women's health platform using GPT-4, RAG, and FHIR because women's health deserves smarter tech
+-  **Ex-Founder** : co-founded **sCoolMeal**, a restaurant POS platform for school cafeterias that scaled from 10 → 2,500 meals/day (and got acquired! 🎉)
+-  Currently building **IRIS** an AI-powered women's health platform using GPT-4, RAG, and FHIR because women's health deserves smarter tech
 -  I sit at the intersection of **AI, Healthcare, and Workforce Workflows** — the three places where the most interesting problems live
 -  Based in **Suwanee, Georgia**
 -  Always learning: right now deep in **Agentic AI**, **LLM architectures**, and **healthcare interoperability**
