@@ -2,7 +2,7 @@
 
 *Product Leader. Ex-Founder. Healthcare AI Builder. I build things that matter and I actually stick around to write the code too.* 
 
-Welcome to my GitHub — a sneak peek into my product thinking & builder brain.
+Welcome to my GitHub - a sneak peek into my product thinking & builder brain.
 
 ---
 
@@ -21,7 +21,7 @@ Welcome to my GitHub — a sneak peek into my product thinking & builder brain.
 ## A few Career Highlights
 
 ### Duality Systems — *Product Lead, AI Scheduling Platform*
-Led product for an AI-powered healthcare workforce scheduling platform that hit **$1M ARR**. Built code that supported constrained optimization algorithms — basically, I helped build a machine to solve the puzzle that makes nurses cry. Designed multi-component architecture and drove roadmap from concept to revenue. Worked on integrations to connect scheduling with payroll, time-off, and clinical systems. Deep expertise in workforce management systems: scheduling, time & attendance, labor optimization. The kind of domain where getting it right actually changes people's work-life balance.
+Led product for an AI-powered healthcare workforce scheduling platform that hit **$1M ARR**. Built code that supported constrained optimization algorithms where basically, I helped build a machine to solve the puzzle that makes nurses cry. Designed multi-component architecture and drove roadmap from concept to revenue. Worked on integrations to connect scheduling with payroll, time-off, and clinical systems. Deep expertise in workforce management systems: scheduling, time & attendance, labor optimization. The kind of domain where getting it right actually changes people's work-life balance.
 
 ### sCoolMeal — *Co-Founder & Product*
 Built a restaurant POS platform purpose-built for school cafeterias. Took it from 10 → 2,500 meals/day, survived the chaos of real-world school lunch lines, and exited via acquisition. Integrated payment processors, school parent portal SSO, and Drift to create a seamless experience for parents, staff, and administrators. Lived the dream while I was at it.
