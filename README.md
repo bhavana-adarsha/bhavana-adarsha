@@ -1,4 +1,6 @@
 # Hi there, I'm Bhavana Adarsha! 👋✨
+# Hi there, I'm Bhavana Adarsha! 👋✨
+
 <div align="center">
   <img src="bhavana.jpg" alt="Bhavana Adarsha" width="200" height="200" style="border-radius: 50%; border: 3px solid #38bdf8;" />
 </div>
