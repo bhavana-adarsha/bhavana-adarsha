@@ -61,10 +61,13 @@ An AI-powered platform built to validate LLM workflow design, prompt engineering
 
 ---
 
-### Agentic AI — Payroll and Employee Onboarding Agent (Coming Soon)
-An intelligent agent that connects to payroll systems, captures employee information, and auto-fills onboarding forms so HR teams can focus on people, not paperwork.
-- Stack: LangChain, Agentic AI, REST APIs, Python
-- Status: In progress
+### Agentic AI — Payroll and Employee Onboarding Agent
+Agentic AI — Payroll and Employee Onboarding Agent
+An intelligent agent that automates employee onboarding data collection and form completion so HR teams can focus on people, not paperwork.
+- Stack: React, Vite, Python, Flask, LangChain, GPT-4
+- Highlights: Conversational AI agent that collects employee data across multiple steps using LangChain agentic workflows
+GPT-4 powered natural language processing to validate inputs and guide employees through onboarding
+React frontend with Flask backend demonstrating full-stack AI product architecture
 
 ---
 
