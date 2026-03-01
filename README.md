@@ -1,4 +1,5 @@
 # Hi there, I'm Bhavana Adarsha! 👋✨
+<img src="bhavana.jpg" alt="Bhavana Adarsha" width="160" height="200" style="border-radius: 50%;" />
 
 *Product Leader. Ex-Founder. Healthcare AI Builder. I build things that matter and I actually stick around to write the code too.*
 
