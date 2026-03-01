@@ -6,7 +6,7 @@ Welcome to my GitHub - a sneak peek into my product thinking & builder brain.
 
 ---
 
-## About
+##  A Little Bit About Me
 
 -  **Product Leader** with 10+ years of PM experience and a secret weapon: 10 years of engineering roots
 -  **Ex-Founder** : co-founded **sCoolMeal**, a restaurant POS platform for school cafeterias that scaled from 10 → 2,500 meals/day (and got acquired! 🎉)
@@ -53,7 +53,7 @@ Designed and delivered end-to-end API integrations across healthcare, workforce,
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 A few featured projects
 
 ### 🌸 [IRIS — AI-Powered Women's Health Platform](https://github.com/bhavana-adarsha/iris-lab-analyzer)
 An intelligent health platform that analyzes lab results, delivers personalized health nudges, and puts women in the driver's seat of their own health data.
