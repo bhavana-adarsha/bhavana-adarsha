@@ -71,15 +71,15 @@ React frontend with Flask backend demonstrating full-stack AI product architectu
 
 ---
 
-### AI and API Integration Framework (Coming Soon)
-A documented product framework for designing, validating, and governing AI-powered API integrations across workforce and operations platforms.
-- Stack: REST APIs, Python, LLM APIs
-- Status: In progress
+### AI Governance Framework
+A product-layer framework for LLM output validation, safety guardrails, and reliability protocols for enterprise AI applications.
+- Highlights: Release readiness framework for a clinical AI chart summarization copilot — Alpha to GA, with safety metrics, pilot design, and governance sign-off checklist
 
 ---
 
-### AI Governance Framework (Coming Soon)
-A product-layer framework for LLM output validation, safety guardrails, and reliability protocols for enterprise AI applications.
+### AI and API Integration Framework (Coming Soon)
+A documented product framework for designing, validating, and governing AI-powered API integrations across workforce and operations platforms.
+- Stack: REST APIs, Python, LLM APIs
 - Status: In progress
 
 ---
