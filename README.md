@@ -77,10 +77,16 @@ A product-layer framework for LLM output validation, safety guardrails, and reli
 
 ---
 
-### AI and API Integration Framework (Coming Soon)
-A documented product framework for designing, validating, and governing AI-powered API integrations across workforce and operations platforms.
-- Stack: REST APIs, Python, LLM APIs
-- Status: In progress
+### Workforce Data Anomaly Explainer AI Agent
+An AI-powered agent that analyzes workforce scheduling and payroll data, detects anomalies using deterministic logic, and generates plain-language explanations with recommended actions using GPT-4.
+- Stack: Frontend	React + Vite, Backend	Flask + Flask-CORS, AI Agent	LangChain + GPT-4, Data	- Synthetic JSON dataset,	Python 3, JavaScript
+- Highlights: Workforce managers dealing with large scheduling datasets spend significant time manually identifying errors — duplicate shifts, availability conflicts, payroll mismatches, and missing submissions. These errors cause overpayments, understaffing, and compliance risks. This agent automates that detection and explains each anomaly in plain language so a non-technical manager can act on it immediately without needing a data analyst.
+
+---
+
+### AI Agent GTM Playbook
+An AI-powered agent that analyzes workforce scheduling and payroll data, detects anomalies using deterministic logic, and generates plain-language explanations with recommended actions using GPT-4.
+- Highlights: This playbook defines how to take the Workforce Data Anomaly Explainer Agent from a working prototype to an adopted tool used consistently by workforce managers across an organization. Building the agent is the easy part. Getting people to use it and keep using it is the hard part. This playbook addresses that problem directly. A technically sound agent that managers do not use is not a successful deployment. Adoption is treated as a first-class outcome alongside accuracy and reliability.
 
 ---
 
