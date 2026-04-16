@@ -71,16 +71,16 @@ React frontend with Flask backend demonstrating full-stack AI product architectu
 
 ---
 
-### AI Governance Framework
-A product-layer framework for LLM output validation, safety guardrails, and reliability protocols for enterprise AI applications.
-- Highlights: Release readiness framework for a clinical AI chart summarization copilot — Alpha to GA, with safety metrics, pilot design, and governance sign-off checklist
-
----
-
 ### Workforce Data Anomaly Explainer AI Agent
 An AI-powered agent that analyzes workforce scheduling and payroll data, detects anomalies using deterministic logic, and generates plain-language explanations with recommended actions using GPT-4.
 - Stack: Frontend	React + Vite, Backend	Flask + Flask-CORS, AI Agent	LangChain + GPT-4, Data	- Synthetic JSON dataset,	Python 3, JavaScript
 - Highlights: Workforce managers dealing with large scheduling datasets spend significant time manually identifying errors — duplicate shifts, availability conflicts, payroll mismatches, and missing submissions. These errors cause overpayments, understaffing, and compliance risks. This agent automates that detection and explains each anomaly in plain language so a non-technical manager can act on it immediately without needing a data analyst.
+
+---
+
+### AI Governance Framework
+A product-layer framework for LLM output validation, safety guardrails, and reliability protocols for enterprise AI applications.
+- Highlights: Release readiness framework for a clinical AI chart summarization copilot — Alpha to GA, with safety metrics, pilot design, and governance sign-off checklist
 
 ---
 
