@@ -52,7 +52,7 @@ Designed and delivered end-to-end API integrations across workforce, payroll, an
 
 ---
 
-## Featured Projects
+## Projects
 
 ### IRIS — AI Product Development and Workflow Design
 An AI-powered platform built to validate LLM workflow design, prompt engineering strategies, and output validation protocols at the product layer.
@@ -89,6 +89,12 @@ An AI-powered agent that analyzes workforce scheduling and payroll data, detects
 - Highlights: This playbook defines how to take the Workforce Data Anomaly Explainer Agent from a working prototype to an adopted tool used consistently by workforce managers across an organization. Building the agent is the easy part. Getting people to use it and keep using it is the hard part. This playbook addresses that problem directly. A technically sound agent that managers do not use is not a successful deployment. Adoption is treated as a first-class outcome alongside accuracy and reliability.
 
 ---
+
+### Patient Journey: From Test Order to Claims Resolution
+- Highlights: This document maps the end-to-end journey a patient experiences when ordered a diagnostic lab test — from the initial clinical encounter through insurance adjudication and final billing resolution. Each stage surfaces friction points that represent opportunities for operational improvement and AI-assisted intervention.
+
+---
+
 
 ## Let's Connect
 
