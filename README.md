@@ -91,9 +91,12 @@ An AI-powered agent that analyzes workforce scheduling and payroll data, detects
 ---
 
 ### Patient Journey: From Test Order to Claims Resolution
-- Highlights: This document maps the end-to-end journey a patient experiences when ordered a diagnostic lab test — from the initial clinical encounter through insurance adjudication and final billing resolution. Each stage surfaces friction points that represent opportunities for operational improvement and AI-assisted intervention.
+- Highlights: Documenting the end-to-end journey a patient experiences when ordered a diagnostic lab test — from the initial clinical encounter through insurance adjudication and final billing resolution. Each stage surfaces friction points that represent opportunities for operational improvement and AI-assisted intervention.
 
 ---
+
+### Modern Data Stack: Applied Concepts & Tooling Fluency
+- Highlights: Documenting hands-on engagement with modern data stack tooling and patterns in the context of AI product development — specifically how data infrastructure decisions shape LLM product quality, reliability, and observability.
 
 
 ## Let's Connect
