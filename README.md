@@ -1,12 +1,12 @@
 # Hi, I'm Bhavana Adarsha
 
-Product Leader. Ex-Founder. AI Builder. I build B2B SaaS products from zero to one and I bring engineering depth to every product decision.
+Engineering Manager & Product Leader. Ex-Founder. AI Builder. I build B2B SaaS products from zero to one and I bring engineering depth to every product decision.
 
 ---
 
 ## About Me
 
-- Product Leader with 10+ years of PM experience and 10 years of engineering roots
+- Engineering Manager & Product Leader with 10+ years of PM experience and 10 years of engineering roots
 - Ex-Founder — co-founded sCoolMeal, a restaurant POS platform for school cafeterias that scaled from 10 to 2,500 meals/day and was acquired in 2019
 - Currently building AI products spanning agentic workflows, workforce automation, and API integrations
 - I sit at the intersection of AI product strategy, workforce tech, and operations platforms
